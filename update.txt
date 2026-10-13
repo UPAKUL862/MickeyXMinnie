@@ -1,4 +1,4 @@
-version=1.0.0
+version=2.0.0
 maintenance=false
 updateUrl=https://github.com/MickeyXMinnie/blob/releases/download/v1.0.0/PremiumMultiLoader.exe
 maintenance_internal=false
