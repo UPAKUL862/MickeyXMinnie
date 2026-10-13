@@ -3,5 +3,5 @@ maintenance=false
 updateUrl=https://github.com/MickeyXMinnie/blob/releases/download/v1.0.0/PremiumMultiLoader.exe
 maintenance_internal=false
 maintenance_internalmax=false
-maintenance_bypass=true
-maintenance_External=true
+maintenance_bypass=false
+maintenance_External=false
