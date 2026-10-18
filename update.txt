@@ -5,3 +5,4 @@ maintenance_internal=false
 maintenance_internalmax=false
 maintenance_bypass=false
 maintenance_External=false
+maintenance_FPS=false
